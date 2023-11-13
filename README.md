@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A8D9CA,100:456A77)
 <p align='center'> Hi there 👋 </p>
 
 ### 내용 정리
