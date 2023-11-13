@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+### 수업시간 정리 내용
+https://github.com/chfhr22/webs2024
 <!--
 **chfhr22/chfhr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
