@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A8D9CA,100:456A77&height=400&text=&desc=Green)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A8D9CA,100:456A77&height=400&text=Green&desc=green)
 <p align='center'> Hi there 👋 </p>
+
+// header 꾸미기 https://github.com/kyechan99/capsule-render/tree/master#text
 
 ### 내용 정리
 수업시간 배운 것들을 정리했습니다. [class](https://github.com/chfhr22/webs2024)
