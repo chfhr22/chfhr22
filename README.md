@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A8D9CA,100:456A77&height=400&text=Dreaming%of%becoming%a%developer&desc=Green)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A8D9CA,100:456A77&height=400&text=&desc=Green)
 <p align='center'> Hi there 👋 </p>
 
 ### 내용 정리
