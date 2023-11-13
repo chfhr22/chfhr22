@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 ### 수업시간 정리 내용
 https://github.com/chfhr22/webs2024
 <!--
