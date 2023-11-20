@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=0:A8D9CA,100:D6FFE3&height=400&text=Dreming%20of-nl-Development&fontsize=90&desc=green)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=0:A8D9CA,100:D6FFE3&height=400&text=Dreming%20of%20Development&desc=green)
 <p align='center'> Hi there 👋 </p>
 
 // header 꾸미기 https://github.com/kyechan99/capsule-render/tree/master#text
