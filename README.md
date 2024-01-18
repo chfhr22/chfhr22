@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:A8D9CA,100:D6FFE3&height=400&text=Dreming%20of%20Develope&desc=green&descSize=40&descAlign=90&descAlignY=70&animation=fadeIn)
 <p align='center'> Hi there 👋 </p>
 
-### 내용 정리
-수업시간 배운 것들을 정리했습니다. [class](https://github.com/chfhr22/webs2024)
 
 ### 웹사이트 만들기
 하나의 사이트를 다양한 버전으로 만들었습니다. <br>
