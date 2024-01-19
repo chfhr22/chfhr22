@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=0:A8D9CA,100:D6FFE3&height=400&text=Dreming%20of%20Develope&desc=green&descSize=40&descAlign=90&descAlignY=70&animation=fadeIn)
-<p align='center'> Hi there 👋 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode=#216c5c&fontColor=#FFF&height=200&section=header&text=GREENING&fontSize=90" />
 
 
 ### 웹사이트 만들기
