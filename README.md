@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode=#216c5c&fontColor=#FFF&height=600px&section=header&text=GREENING&fontSize=90" />
+
 
 
 ### 웹사이트 만들기
