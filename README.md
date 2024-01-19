@@ -1,4 +1,6 @@
-
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GREENING%20Github!&fontSize=90" />	
+</div>
 
 
 ### 웹사이트 만들기
